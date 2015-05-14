@@ -2,7 +2,9 @@
 Easy Dynamic JPA entities management in OSGi container
 
 # Development environment setup
+
 Virtual environment:
+
 1. VirtualBox 4.3.28 x64 - https://www.virtualbox.org/wiki/Downloads
 
 2. Oracle Linux 7.1 - https://edelivery.oracle.com/linux
