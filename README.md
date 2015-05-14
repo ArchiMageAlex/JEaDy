@@ -21,3 +21,6 @@ Virtual environment:
 
 8. PostgreSQL JDBC Drivers - https://jdbc.postgresql.org/
 
+9. Образ vdi:
+root/Setup12345!@#$%
+developer/dev12345!@#$%
