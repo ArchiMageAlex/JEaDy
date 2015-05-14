@@ -11,3 +11,4 @@ Virtual environment:
 6. Eclipse Luna - http://www.eclipse.org/downloads/
 7. PostgreSQL 9.4 - http://www.postgresql.org/download/
 8. PostgreSQL JDBC Drivers - https://jdbc.postgresql.org/
+
