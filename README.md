@@ -7,17 +7,21 @@ Virtual environment:
 
 1. VirtualBox 4.3.28 x64 - https://www.virtualbox.org/wiki/Downloads
 
-2. Oracle Linux 7.1 x64 - https://edelivery.oracle.com/linux
+2. Fedora Workstation Linux 21 x64 - https://getfedora.org/ru/workstation/
 
-3. WildFly 9.0CR1 - http://wildfly.org/downloads/
+3. WildFly 8.1 - http://wildfly.org/downloads/
+  yum install wildfly
 
-4. JDK 8 x64 - http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html or in Oracle Linux distribution pack
+4. JDK 7 x64 - http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 5. Maven 3 - http://maven.apache.org/download.cgi
+  yum install maven
 
-6. Eclipse Luna - http://www.eclipse.org/downloads/
+6. Eclipse Luna 4.4.2 - http://www.eclipse.org/downloads/
+  yum install eclipse
 
-7. PostgreSQL 9.4 - http://www.postgresql.org/download/ or in Oracle Linux distribution pack
+7. PostgreSQL 9.3.6 - http://www.postgresql.org/download/
+  yum install postgresql-server
 
 8. PostgreSQL JDBC Drivers - https://jdbc.postgresql.org/
 
