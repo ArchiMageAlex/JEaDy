@@ -10,7 +10,6 @@ Virtual environment:
 2. Fedora Workstation Linux 21 x64 - https://getfedora.org/ru/workstation/
 
 3. WildFly 8.1 - http://wildfly.org/downloads/
-  yum install wildfly
 
 4. JDK 7 x64 - http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
@@ -18,7 +17,6 @@ Virtual environment:
   yum install maven
 
 6. Eclipse Luna 4.4.2 - http://www.eclipse.org/downloads/
-  yum install eclipse
 
 7. PostgreSQL 9.3.6 - http://www.postgresql.org/download/
   yum install postgresql-server
