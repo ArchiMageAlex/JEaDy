@@ -19,10 +19,21 @@ Common software
 
 Virtual environment based on Fedora Linux:
 
-1. Fedora Workstation Linux 21 x64 - https://getfedora.org/ru/workstation/
-2. WildFly 8.1 - http://wildfly.org/downloads/
-3. JDK 7 x64 - http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
-4. Maven 3 - http://maven.apache.org/download.cgi
+1. Fedora Workstation Linux 21 x64
+
+   https://getfedora.org/ru/workstation/
+
+2. WildFly 8.1
+
+   http://wildfly.org/downloads/
+
+3. JDK 7 x64
+
+   http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
+
+4. Maven 3
+
+   http://maven.apache.org/download.cgi
 
    yum install maven
 
