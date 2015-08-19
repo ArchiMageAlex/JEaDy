@@ -37,7 +37,9 @@ Virtual environment based on Fedora Linux:
 
    yum install maven
 
-5. PostgreSQL 9.3.6 - http://www.postgresql.org/download/
+5. PostgreSQL 9.3.6
+
+   http://www.postgresql.org/download/
 
    yum install postgresql-server
 
