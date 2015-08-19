@@ -17,7 +17,7 @@ Common software
    
    http://www.eclipse.org/downloads/
 
-##Virtual environment based on Fedora Linux:
+##Virtual environment based on Fedora Workstation Linux:
 
 1. Fedora Workstation Linux 21 x64
 
