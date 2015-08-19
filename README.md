@@ -67,13 +67,15 @@ Virtual environment based on Ubuntu Linux:
 
 Environment configuration
 
+In a terminal do:
 1. cd ~
 2. mkdir git
 3. cd git
 4. git clone https://github.com/ArchiMageAlex/JEaDy.git
 5. Add $ECLIPSE_HOME to $PATH in  Your bashrc file, for example: export PATH=$PATH:/opt/eclipse
-6. eclipse
-7. Create local git repository in Eclipse: New - Git - Git Repository - ~/git
-7. Import project in Eclipse: Import - Git - Projects from Git - Existing local repository - git - Import as general project - JEaDy
-8. core - pom.xml - Run As - Maven build - package - Apply - Run
-9. Ready!!!
+6. Close and Open again terminal
+7. eclipse
+8. Create local git repository in Eclipse: New - Git - Git Repository - ~/git
+9. Import project in Eclipse: Import - Git - Projects from Git - Existing local repository - git - Import as general project - JEaDy
+10. core - pom.xml - Run As - Maven build - package - Apply - Run
+11. Ready!!!
