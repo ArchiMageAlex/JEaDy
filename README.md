@@ -17,7 +17,7 @@ Common software
    
    http://www.eclipse.org/downloads/
 
-Virtual environment based on Fedora Linux:
+##Virtual environment based on Fedora Linux:
 
 1. Fedora Workstation Linux 21 x64
 
@@ -43,7 +43,7 @@ Virtual environment based on Fedora Linux:
 
    yum install postgresql-server
 
-Virtual environment based on Ubuntu Linux:
+##Virtual environment based on Ubuntu Linux:
 
 1. Ubuntu 15.04 x64
 
@@ -65,7 +65,7 @@ Virtual environment based on Ubuntu Linux:
 
    https://www.howtoforge.com/tutorial/postgresql-on-ubuntu-15-04
 
-Environment configuration
+##Environment configuration
 
 In a terminal do:
 1. cd ~
