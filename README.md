@@ -89,4 +89,6 @@ Login into the virtual machine with installed software from the above list, run 
 
 10. core - pom.xml - Run As - Maven build - package - Apply - Run
 
-11. Ready to code.
+11. Ready to code. Follow the tutorial: http://archimagescastle.blogspot.ru/2015/05/jpa-osgi.html
+ 
+
