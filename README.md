@@ -3,7 +3,7 @@ Easy Dynamic JPA entities management in OSGi container
 
 # Development environment setup
 
-Common software
+Download and install common infrastructure software
 
 1. VirtualBox 5.0.3 x64
 
@@ -67,7 +67,7 @@ Common software
 
 ##Environment configuration
 
-In a terminal do:
+Login into the virtual machine with installed software from the above list, run a terminal & execute commands:
 
 1. cd ~
 
@@ -77,7 +77,7 @@ In a terminal do:
 
 4. git clone https://github.com/ArchiMageAlex/JEaDy.git
 
-5. Add $ECLIPSE_HOME to $PATH in  Your bashrc file, for example: export PATH=$PATH:/opt/eclipse
+5. Add $ECLIPSE_HOME to $PATH in Your home .bashrc file, for example: export PATH=$PATH:/opt/eclipse
 
 6. Close and Open again terminal
 
@@ -89,4 +89,4 @@ In a terminal do:
 
 10. core - pom.xml - Run As - Maven build - package - Apply - Run
 
-11. Ready!!!
+11. Ready to code.
